@@ -1,4 +1,4 @@
-mproving Test Speed
+Improving Test Speed
 --------------------
 
 **First things first:** It's not really about test speed. It's about design.
